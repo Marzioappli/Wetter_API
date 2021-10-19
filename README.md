@@ -20,6 +20,7 @@ API-Link:
  
  
 SMART Ziele:
+
 S-
 M-Das Ziel ist es am Ende der Woche eine Wetter API, welche funktioniert.
 A-
